@@ -1,0 +1,16 @@
+Package: g-password-gen
+Version: 1.0-1
+Architecture: all
+Maintainer: Glenn de Haan <glenn@dehaan.cloud>
+Installed-Size: 16
+Filename: ./g-password-gen_1.0-1_all.deb
+Size: 3176
+MD5sum: 37f2534f7912a7e3e5f9f1f3ed267385
+SHA1: 70d929925f923ba07ac93e2acf92a330a62b3d2d
+SHA256: f651b1d77360f7c145b9735f8dd98153f52c9293616a924653f6fbfba635db0c
+Section: utils
+Priority: optional
+Homepage: https://github.com/glenndehaan/bash-utils
+Description: Simple password generator
+ A simple password generator powered by G-Tools
+
