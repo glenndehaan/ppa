@@ -14,3 +14,21 @@ Homepage: https://github.com/glenndehaan/bash-utils
 Description: Simple password generator
  A simple password generator powered by G-Tools
 
+Package: g-ssl-comp
+Version: 1.0-1
+Architecture: all
+Maintainer: Glenn de Haan <glenn@dehaan.cloud>
+Installed-Size: 19
+Depends: openssl
+Filename: ./g-ssl-comp_1.0-1_all.deb
+Size: 3692
+MD5sum: 8a28f09c946cc6907b4d6d3f56b4fa0d
+SHA1: 66bb0ae12aa53011122d3260e0605dcca8cc572b
+SHA256: 86172b5f29b5e23970a7c0708d9b82b39a44aaa8d8b929ad1e8ff8dfdc980b10
+Section: utils
+Priority: optional
+Homepage: https://github.com/glenndehaan/bash-utils
+Description: SSL comparator
+ An SSL comparator that checks if the entire set
+ (private key, certificate request and certificate) belongs to each other
+
