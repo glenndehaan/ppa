@@ -15,6 +15,7 @@ sudo apt update
 The following packages are available in the PPA:
 * g-password-gen - Simple password generator
 * g-ssl-comp - An SSL comparator that checks if the entire set (private key, certificate request and certificate) belongs to each other
+* g-sys-info - A simple System info reporting tool
 
 ## License
 
