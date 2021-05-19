@@ -66,3 +66,19 @@ Homepage: https://github.com/glenndehaan/bash-utils
 Description: System info
  A simple System info reporting tool
 
+Package: g-sys-info
+Version: 1.1-1
+Architecture: all
+Maintainer: Glenn de Haan <glenn@dehaan.cloud>
+Installed-Size: 20
+Filename: ./g-sys-info_1.1-1_all.deb
+Size: 4296
+MD5sum: da42b008891e2c8dd8f231a09ee49da1
+SHA1: fb9e711300b7948531c6b47eb963e7f929b467e1
+SHA256: 0f167fcfee5b1e0273bc3917a5e509ade2475bff80ea4f3036b1f3ed8b4ed8da
+Section: utils
+Priority: optional
+Homepage: https://github.com/glenndehaan/bash-utils
+Description: System info
+ A simple System info reporting tool
+
