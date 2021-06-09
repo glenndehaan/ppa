@@ -1,3 +1,19 @@
+Package: g-example-http-server
+Version: 1.0-1
+Architecture: all
+Maintainer: Glenn de Haan <glenn@dehaan.cloud>
+Installed-Size: 16
+Filename: ./g-example-http-server_1.0-1_all.deb
+Size: 3060
+MD5sum: d382e2934ded6f7ad380320b0a49e2ea
+SHA1: f696143290adc33690f5c68ffd9a62982a8dda47
+SHA256: 6fa4f6bc750147947c7c6d7628f223ca252fb6d109f25493ba1b2b97bc07a92f
+Section: utils
+Priority: optional
+Homepage: https://github.com/glenndehaan/bash-utils
+Description: Simple HTTP Server
+ A simple HTTP example server that runs on port 8080
+
 Package: g-password-gen
 Version: 1.0-1
 Architecture: all
