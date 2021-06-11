@@ -16,6 +16,7 @@ The following packages are available in the PPA:
 * g-example-http-server - A simple HTTP example server that runs on port 8080
 * g-password-gen - Simple password generator
 * g-ssl-comp - An SSL comparator that checks if the entire set (private key, certificate request and certificate) belongs to each other
+* g-ssl-crt-gen - An SSL certificate Generator combined with a matching Private Key
 * g-ssl-csr-gen - An SSL certificate Request Generator combined with a matching Private Key
 * g-sys-info - A simple System info reporting tool
 
