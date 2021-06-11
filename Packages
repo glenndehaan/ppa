@@ -83,6 +83,23 @@ Description: SSL comparator
  An SSL comparator that checks if the entire set
  (private key, certificate request and certificate) belongs to each other
 
+Package: g-ssl-crt-gen
+Version: 1.0-1
+Architecture: all
+Maintainer: Glenn de Haan <glenn@dehaan.cloud>
+Installed-Size: 19
+Depends: openssl
+Filename: ./g-ssl-crt-gen_1.0-1_all.deb
+Size: 3792
+MD5sum: 5ecb37666394075751a90b94dac0e32a
+SHA1: 0b9f4456d0fa8d358437c1054c92a372f26bdaf2
+SHA256: 773d2be83effcc0d0051933c5b264232bd938c0691a4ea986aa6d8cc46102877
+Section: utils
+Priority: optional
+Homepage: https://github.com/glenndehaan/bash-utils
+Description: SSL Certificate Generator
+ An SSL certificate Generator combined with a matching Private Key
+
 Package: g-ssl-csr-gen
 Version: 1.0-1
 Architecture: all
