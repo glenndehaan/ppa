@@ -18,6 +18,7 @@ The following packages are available in the PPA:
 * g-ssl-comp - An SSL comparator that checks if the entire set (private key, certificate request and certificate) belongs to each other
 * g-ssl-crt-gen - An SSL certificate Generator combined with a matching Private Key
 * g-ssl-csr-gen - An SSL certificate Request Generator combined with a matching Private Key
+* g-ssl-info - A simple SSL utility that provides basic info about an SSL bundle
 * g-sys-info - A simple System info reporting tool
 
 ## License

@@ -117,6 +117,23 @@ Homepage: https://github.com/glenndehaan/bash-utils
 Description: SSL Certificate Request Generator
  An SSL certificate Request Generator combined with a matching Private Key
 
+Package: g-ssl-info
+Version: 1.0-1
+Architecture: all
+Maintainer: Glenn de Haan <glenn@dehaan.cloud>
+Installed-Size: 19
+Depends: openssl
+Filename: ./g-ssl-info_1.0-1_all.deb
+Size: 3796
+MD5sum: 82a8d82a01d495cf22c468b66b18933a
+SHA1: 67f60ec68068f00ad8dcd279d5167667dff7c10b
+SHA256: 62d73d254bbf7ff907b9b93791cdd957b909d6e5c7c55a7785902900e4d47acd
+Section: utils
+Priority: optional
+Homepage: https://github.com/glenndehaan/bash-utils
+Description: SSL Certificate Info Utility
+ A simple SSL utility that provides basic info about an SSL bundle
+
 Package: g-sys-info
 Version: 1.0-1
 Architecture: all
