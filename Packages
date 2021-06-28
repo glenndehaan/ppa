@@ -31,6 +31,22 @@ Homepage: https://github.com/glenndehaan/bash-utils
 Description: Simple HTTP Server
  A simple HTTP example server that runs on port 8080
 
+Package: g-inet-test
+Version: 1.0-1
+Architecture: all
+Maintainer: Glenn de Haan <glenn@dehaan.cloud>
+Installed-Size: 17
+Filename: ./g-inet-test_1.0-1_all.deb
+Size: 3388
+MD5sum: 2df172d58574d93a03335d6ea1222416
+SHA1: bce4d0b6bbd9fa74b9b29ef7801ba80672487286
+SHA256: 9363597d26ecf5a3a44d44315400312aa17631824db32043e7867b96e7be6b05
+Section: utils
+Priority: optional
+Homepage: https://github.com/glenndehaan/bash-utils
+Description: Internet Test
+ A simple utility that tests if you are connected to the internet
+
 Package: g-password-gen
 Version: 1.0-1
 Architecture: all
