@@ -47,6 +47,23 @@ Homepage: https://github.com/glenndehaan/bash-utils
 Description: Internet Test
  A simple utility that tests if you are connected to the internet
 
+Package: g-nginx-dynamic-whitelists
+Version: 1.0-1
+Architecture: all
+Maintainer: Glenn de Haan <glenn@dehaan.cloud>
+Installed-Size: 23
+Filename: ./g-nginx-dynamic-whitelists_1.0-1_all.deb
+Size: 3936
+MD5sum: 0b2efa75fbe85f2c9e8bd55e03ee9cf4
+SHA1: fcaed35a337638193eed4ec43f9177c6c2f6b10e
+SHA256: 431b0d51eab638b139110a54ba9964b26aa7607e8e06d8a4429bdc44f9e898b2
+Section: utils
+Priority: optional
+Homepage: https://github.com/glenndehaan/bash-utils
+Description: Nginx Dynamic Whitelists Generator
+ An Nginx Dynamic IP Whitelists Generator
+ This system pulls IP information from a global TCP server
+
 Package: g-password-gen
 Version: 1.0-1
 Architecture: all

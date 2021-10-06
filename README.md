@@ -15,6 +15,7 @@ sudo apt update
 The following packages are available in the PPA:
 * `g-example-http-server` - A simple HTTP example server that runs on port 8080
 * `g-inet-test` - A simple utility that tests if you are connected to the internet
+* `g-nginx-dynamic-whitelists` - An Nginx Dynamic IP Whitelists Generator
 * `g-password-gen` - Simple password generator
 * `g-ssl-comp` - An SSL comparator that checks if the entire set (private key, certificate request and certificate) belongs to each other
 * `g-ssl-crt-gen` - An SSL certificate Generator combined with a matching Private Key
