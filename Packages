@@ -64,6 +64,23 @@ Description: Nginx Dynamic Whitelists Generator
  An Nginx Dynamic IP Whitelists Generator
  This system pulls IP information from a global TCP server
 
+Package: g-nginx-dynamic-whitelists
+Version: 1.1-1
+Architecture: all
+Maintainer: Glenn de Haan <glenn@dehaan.cloud>
+Installed-Size: 23
+Filename: ./g-nginx-dynamic-whitelists_1.1-1_all.deb
+Size: 4028
+MD5sum: 908d434c57de0ed79850508a981ab716
+SHA1: cf4c0da0390e3fab9124ec9214a5991daf7f11a2
+SHA256: 4dadee27135b48d0965f773cd60f3a5619012cbc3aef93b8822ca5be4b6eb735
+Section: utils
+Priority: optional
+Homepage: https://github.com/glenndehaan/bash-utils
+Description: Nginx Dynamic Whitelists Generator
+ An Nginx Dynamic IP Whitelists Generator
+ This system pulls IP information from a global TCP server
+
 Package: g-password-gen
 Version: 1.0-1
 Architecture: all
